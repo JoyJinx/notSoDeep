@@ -5,3 +5,5 @@
 2-simulating sinusoidal pattern using Tensorflow
 
 3-simulating sinusoidal pattern using PyTorch
+
+4-MNIST digit detection using Tensorflow
